@@ -1,6 +1,6 @@
 # Decentralized_Lottery_Game
 
-### A simple 'n' player lottery game based upon True Randomness by using CHAINLINKVRFS for randomness and The Graph for inedexing.
+### A simple 'n' player lottery game based upon True Randomness by using CHAINLINKVRFS for randomness and The Graph for indexing.
 
 ## Usage 
 
